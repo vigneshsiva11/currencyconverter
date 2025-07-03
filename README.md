@@ -23,7 +23,7 @@ A simple, responsive **Currency Converter Web App** built using **HTML**, **CSS*
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/vigneshsiva11/currency-converter.git
    ```
 
 2. **Open the app**
@@ -33,6 +33,4 @@ A simple, responsive **Currency Converter Web App** built using **HTML**, **CSS*
    cd currency-converter
    open index.html
    ```
-
-> No installation or build tools needed — just run it in your browser!
 
