@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> bd504f1d027fce9b5a9f3ad293e1ce16efaf15c3
 let select = document.querySelectorAll('.currency')
 let btn = document.getElementById('btn')
 let input = document.getElementById('input')
